@@ -1,0 +1,14 @@
+.slds-form-element .slds-form-element__label {
+width: 54px;
+border-left-width: 1px;
+padding-left: 40px;
+margin-left: 10px;
+padding-right: 1px;
+}
+
+.slds-combobox_container {
+width: 74px;
+    padding-right: 10px;
+    padding-left: 5px;
+    margin-left: 10px;
+}
